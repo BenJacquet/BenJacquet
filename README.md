@@ -63,7 +63,7 @@ I'm a software developer from France, living in Versailles and currently studyin
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-<br><hr><br>
+<br>
 
 ## &#x270d; Lifestyle and Hobbies
 
@@ -73,7 +73,7 @@ Apart from coding, I am a believer that a healthy mind in a healthy body goes a 
 - Cooking (That used to be one of my previous jobs 👨‍🍳)
 - Let's talk about the rest face to face !
 
-<br><hr><br>
+<br>
 
 ## <img src="https://github.com/BenJacquet/BenJacquet/blob/master/images/GitHub-Mark-Light-32px.png?raw=true" width="30px" height="30px" /> GitHub Stats
 
