@@ -67,7 +67,7 @@ I'm a software developer from France, living in Versailles and currently studyin
 
 ## &#x270d; Lifestyle and Hobbies
 
-Apart from coding, I am a believer that a healthy mind in a healthy body go a very long way so I love:
+Apart from coding, I am a believer that a healthy mind in a healthy body goes a very long way so I love :
 - Working out
 - Reading (Sci-Fi, fantasy, code, thriller and more...)
 - Cooking (That used to be one of my previous jobs 👨‍🍳)
@@ -80,10 +80,10 @@ Apart from coding, I am a believer that a healthy mind in a healthy body go a ve
 <br>
 
 <a href="https://github.com/BenJacquet/BenJacquet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenJacquet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenJacquet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/BenJacquet/BenJacquet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BenJacquet&show_icons=true&line_height=67&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ben's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BenJacquet&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ben's GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->
