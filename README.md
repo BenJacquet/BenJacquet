@@ -3,7 +3,7 @@
 <h1>My name is Benjamin Jacquet !
 <br><br>
 I'm a software developer from France, living in Versailles and currently studying at 42Paris.<br><br>
-Check out my <a href="https://benjacquet.github.io" target="_blank" rel="noreferrer">portfolio</a>!</h1>
+Check out my <a href="https://benjacquet.com" target="_blank" rel="noreferrer">portfolio</a>!</h1>
 <br>
 
 <!-- <img src="https://badge42.vercel.app/api/v2/cl9h8a93b00390hmqa9bg4a7c/stats?cursusId=21&coalitionId=48" /> -->
